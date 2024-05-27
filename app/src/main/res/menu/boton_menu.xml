@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Inicio"
+        android:icon="@color/design_default_color_primary"
+        android:id="@+id/btn_inicio"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Bt conexion"
+        android:icon="@color/material_dynamic_neutral10"
+        android:id="@+id/btn_bt_conexion"/>
+    <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Firebase"
+        android:icon="@color/material_dynamic_neutral60"
+        android:id="@+id/btn_firebase"/>
+</menu>
