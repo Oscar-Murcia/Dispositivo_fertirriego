@@ -13,4 +13,5 @@
         android:text="Firebase"
         android:textSize="26dp"
         android:layout_gravity="center"/>
+
 </FrameLayout>
